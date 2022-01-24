@@ -1,0 +1,14 @@
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\bin\Debug\Trabalho de MF sobre comercio.exe.config
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\bin\Debug\Trabalho de MF sobre comercio.exe
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\bin\Debug\Trabalho de MF sobre comercio.pdb
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho de MF sobre comercio.csprojAssemblyReference.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Form1.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Form2.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Properties.Resources.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho de MF sobre comercio.csproj.GenerateResource.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho de MF sobre comercio.csproj.CoreCompileInputs.cache
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho de MF sobre comercio.exe
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho de MF sobre comercio.pdb
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Form3.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Form4.resources
+C:\Users\Willian Silvestre\Desktop\TRABANHO\MATEMÁTICA FINANCEIRA\Trabalho de MF sobre comercio\Trabalho de MF sobre comercio\obj\Debug\Trabalho_de_MF_sobre_comercio.Form5.resources
